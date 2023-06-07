@@ -1,5 +1,6 @@
 # ReactAspnetApp
 
+Скачайте или клонируйте репозиторий
 # OrdersApi (back-end)
 - [.NET 6.0]
 перейдите в папку OrdersApi
